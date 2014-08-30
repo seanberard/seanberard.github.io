@@ -1,4 +1,1 @@
-seanberard.github.io
-====================
-
-My personal landing page
+# seanberard.github.io
